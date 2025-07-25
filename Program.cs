@@ -13,6 +13,12 @@ namespace CursoCSharp {
                 {"Lendo Dados - Fundamentos", LendoDados.Executar},
                 {"Formatando Numeros - Fundamentos", FormatandoNumeros.Executar},
                 {"Operadores Aritmeticos - Fundamentos", OperadoresAritmeticos.Executar},
+                {"Exercicio Calculo de Média - Fundamentos", CalculoMedia.Executar},
+                {"Operadores Racionais e Lógicos - Fundamentos", Operadores.Executar},
+                {"Operadores de Atruibuição - Fundamentos", OperadoresAtribuicao.Executar},
+                {"Estrutura de Condição - Fundamentos", EstruturaCondicao.Executar},
+                {"Estrutura Switch - Fundamentos", EstruturaSwitch.Executar},
+                {"Estrutura de Repetição - Fundamentos", EstruturaRepeticao.Executar},
             });
 
             central.SelecionarEExecutar();
